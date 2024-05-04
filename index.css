@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;  
+   
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: bisque;
+}                                                                                       
+ button{
+  display: flex;
+  justify-content: center;
+  margin: 50px 390px;
+  padding: 40px;
+  background-color: blueviolet;
+ }
+ h1{
+  display: flex;
+  justify-content: center;
+ margin: 70px 50px;
+ padding: 30px;
+  background-color: rgb(191, 18, 105);
+ }
+ 
+
